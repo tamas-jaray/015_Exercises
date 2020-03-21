@@ -1,4 +1,5 @@
-# 015_Exercises of:
+# 015_Exercises
+
 C# Basics for Beginners course made by Mosh Hamedani on Udemy.
 
 My exercise solution for this Udemy course.
